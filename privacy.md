@@ -1,6 +1,6 @@
-# IMS Notifications - Privacy Policy
+# Staffing Bot - Privacy Policy
 
-IMS Notifications is an internal Google Chat app of Innowise, part of the Interview Management System (IMS). It is available only to Innowise employees.
+Staffing Bot is an internal Google Chat app of Innowise, part of the Interview Management System (IMS). It is available only to Innowise employees.
 
 ## Data the app handles
 
@@ -23,9 +23,9 @@ In Innowise systems (IMS and the app's service) and by Google Chat and Google Wo
 
 ---
 
-# IMS Notifications - Политика конфиденциальности
+# Staffing Bot - Политика конфиденциальности
 
-IMS Notifications - внутреннее приложение Google Chat компании Innowise, часть системы IMS. Доступно только сотрудникам Innowise.
+Staffing Bot - внутреннее приложение Google Chat компании Innowise, часть системы IMS. Доступно только сотрудникам Innowise.
 
 - **Данные связки.** Когда вы пишете приложению в личные сообщения, оно сохраняет ваш рабочий email, числовой идентификатор пользователя Google и идентификатор личного чата с приложением, чтобы доставлять вам уведомления. Сохраняется только для сотрудников, допущенных к функции уведомлений.
 - **Содержимое уведомлений.** Текст уведомления (названия запросов, кандидатов, интервью и проверок, ссылка на IMS) формирует IMS, и он отправляется вам через Google Chat. IMS хранит свои уведомления в собственных данных.
