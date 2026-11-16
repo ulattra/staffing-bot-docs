@@ -1,6 +1,6 @@
-# Staffing Bot - Support
+# IMS Notifications - Support
 
-Staffing Bot is an internal Google Chat app of Innowise, part of the Interview Management System (IMS), [https://ims.inno.ws](https://ims.inno.ws).
+IMS Notifications is an internal Google Chat app of Innowise, part of the Interview Management System (IMS), [https://ims.inno.ws](https://ims.inno.ws).
 
 ## Getting help
 
@@ -9,7 +9,7 @@ For questions about the app, access or your data, contact the IMS team at Innowi
 ## Not receiving notification copies?
 
 1. Open your profile in IMS and check that the Google Chat notifications switch is on.
-2. Open a direct chat with Staffing Bot in Google Chat and write "hello" once. The app confirms the connection.
+2. Open a direct chat with IMS Notifications in Google Chat and write "hello" once. The app confirms the connection.
 3. Copies are sent with a short delay, up to a couple of minutes after the notification appears in IMS.
 4. You do not receive a copy of an action you performed yourself.
 
@@ -19,10 +19,10 @@ Ask support to delete the stored link between your work email and your direct ch
 
 ---
 
-# Staffing Bot - Поддержка
+# IMS Notifications - Поддержка
 
-Staffing Bot - внутреннее приложение Google Chat компании Innowise, часть системы IMS, [https://ims.inno.ws](https://ims.inno.ws).
+IMS Notifications - внутреннее приложение Google Chat компании Innowise, часть системы IMS, [https://ims.inno.ws](https://ims.inno.ws).
 
 - **Как получить помощь.** По вопросам работы, доступа и данных обращайтесь в команду IMS Innowise через обычные внутренние каналы поддержки или к вашему руководителю. Укажите рабочий email и краткое описание проблемы.
-- **Не приходят копии уведомлений.** Проверьте, что в профиле IMS включён переключатель Google Chat. Откройте личный чат со Staffing Bot и один раз напишите ему. Копии приходят с небольшой задержкой, до пары минут. Копию собственного действия вы не получаете.
+- **Не приходят копии уведомлений.** Проверьте, что в профиле IMS включён переключатель Google Chat. Откройте личный чат со IMS Notifications и один раз напишите ему. Копии приходят с небольшой задержкой, до пары минут. Копию собственного действия вы не получаете.
 - **Удаление данных.** Попросите поддержку удалить сохранённую связку рабочего email и личного чата с приложением. См. [Privacy](privacy.md).

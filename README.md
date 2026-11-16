@@ -1,6 +1,6 @@
-# Staffing Bot - documents
+# IMS Notifications - documents
 
-Terms of service, privacy policy and support page of the Staffing Bot Google Chat app (Innowise, Interview Management System).
+Terms of service, privacy policy and support page of the IMS Notifications Google Chat app (Innowise, Interview Management System).
 
 - [Terms of Service](terms.md)
 - [Privacy Policy](privacy.md)
